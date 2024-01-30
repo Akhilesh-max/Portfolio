@@ -26,3 +26,10 @@ This project can be further expanded by adding more features like updating stude
 Akhilesh Kumar Yadav
 ## License
 MIT license 
+## Connect with Me 🤝
+
+Having any query?? 
+
+[![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+<a href="https://leetcode.com/Akhilesh-max/">
