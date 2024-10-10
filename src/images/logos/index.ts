@@ -15,6 +15,8 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import GSoCLogo from "./gsoc.svg";
+import OppiaLogo from "./oppia.png";
 
 export {
   ConsultlyLogo,
@@ -24,12 +26,14 @@ export {
   CDGOLogo,
   ClevertechLogo,
   EvercastLogo,
+  GSoCLogo,
   Howdy,
   JarockiMeLogo,
   JojoMobileLogo,
   MonitoLogo,
   MobileVikingsLogo,
   NSNLogo,
+  OppiaLogo,
   ParabolLogo,
   TastyCloudLogo,
   YearProgressLogo,
